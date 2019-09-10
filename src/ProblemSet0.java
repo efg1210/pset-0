@@ -67,9 +67,7 @@ public class PSet0 {
          * Print a to-do list to the console.
          */
 
-        System.out.println("Here's today's to-do list:");
-        System.out.println("\t- Go food shopping");
-        System.out.println("\t- Mow the lawn\n");
+        System.out.println("\nHere's today's to-do list:\n\t- Go food shopping\n\t- Mow the lawn\n");
 
         /*
          * Exercise 6.
