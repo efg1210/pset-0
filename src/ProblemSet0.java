@@ -83,7 +83,7 @@ public class PSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.println("Three.\tTwo.\tOne.\tGo!\n");
+        System.out.println("\nThree.\tTwo.\tOne.\tGo!\n");
 
         /*
          * Exercise 8.
