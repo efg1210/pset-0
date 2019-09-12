@@ -59,7 +59,7 @@ public class PSet0 {
          System.out.println("(|  0 0  |)");
          System.out.println(" |   ^   |");
          System.out.println(" |  '-'  |");
-         System.out.println("  +-----+\n");
+         System.out.println("  +-----+");
 
         /*
          * Exercise 5.
@@ -67,7 +67,7 @@ public class PSet0 {
          * Print a to-do list to the console.
          */
 
-        System.out.println("\nHere's today's to-do list:\n\t- Go food shopping\n\t- Mow the lawn\n");
+        System.out.println("\nHere's today's to-do list:\n\t- Go food shopping\n\t- Mow the lawn");
 
         /*
          * Exercise 6.
@@ -83,7 +83,7 @@ public class PSet0 {
          * Print a countdown to the console.
          */
 
-        System.out.println("\nThree.\tTwo.\tOne.\tGo!\n");
+        System.out.println("\nThree.\tTwo.\tOne.\tGo!");
 
         /*
          * Exercise 8.
@@ -115,4 +115,6 @@ public class PSet0 {
          System.out.println("\n\t\b\b\b\b+---+\n\t\b\b\b\b|\t|");
          System.out.println("+---+\t+---+\n|\t\t\b\b\b\b|\n+---+\t\t\b\b\b\b\b\b\b\b+---+");
          System.out.println("\t\b\b\b\b|\t|\n\t\b\b\b\b+---+");
+
+       }
 }
